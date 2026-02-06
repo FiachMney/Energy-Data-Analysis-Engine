@@ -38,4 +38,4 @@ The system is built on a modular 3-layer architecture:
     - Apply commands: `reg` (regression), `vol` (volatility), `pred` (prediction).
 
 ## 📄 Documentation
-See [rapport_technique.pdf](docs/rapport_technique.pdf) for the full technical report, mathematical formulas, and error handling protocols.
+See [rapport_technique.pdf](docs/Technical_Report.pdf) for the full technical report, mathematical formulas, and error handling protocols.
